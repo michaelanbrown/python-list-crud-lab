@@ -27,4 +27,4 @@ def retrieve_element_from_index(l, index):
     return l[index]
 
 def retrieve_last_element_from_list(l):
-    return None
+    return l[-1]
