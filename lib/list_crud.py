@@ -14,6 +14,7 @@ def add_element_to_start_of_list(l, element):
 
 def remove_element_from_end_of_list(l):
     l.pop()
+    return l
 
 def remove_element_from_start_of_list(l):
     return None
