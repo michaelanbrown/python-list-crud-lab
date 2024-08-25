@@ -18,6 +18,7 @@ def remove_element_from_end_of_list(l):
 
 def remove_element_from_start_of_list(l):
     del l[0]
+    return l
 
 def retrieve_first_element_from_list(l):
     return None
